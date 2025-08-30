@@ -32,7 +32,7 @@ OUTPUT FORMAT (usethis structure):
 📅 **Meeting Schedule Analysis**
 
 **Recommended Time (UTC):** [Day, Date, Time UTC]
-**Local Times:**
+**Recommended Time In Local Times:**
 - [username]: [local time with timezone]
 - [username]: [local time with timezone]
 
